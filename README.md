@@ -21,5 +21,5 @@ Here is a list of menu options for this application:
 Clone this project
 
 ```bash
-
+    git clone https://github.com/MichaelRogers1978/Module-2-mini-project.git
 ```
